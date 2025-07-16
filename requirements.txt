@@ -1,8 +1,13 @@
-streamlit
+streamlit==1.35.0
+
+#  ML libraries
 torch==2.2.0
 torchvision==0.17.0
-opencv-python
-numpy
-pillow
-scikit-learn
-matplotlib
+scikit-learn==1.4.2
+matplotlib==3.8.4
+numpy==1.26.4
+pillow==10.3.0
+
+
+opencv-python==4.9.0.80
+
