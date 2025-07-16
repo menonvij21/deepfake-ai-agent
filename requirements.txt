@@ -1,18 +1,8 @@
-# Core ML packages (CPU versions for compatibility with Streamlit Cloud)
+streamlit
 torch==2.2.0
 torchvision==0.17.0
-torchaudio==2.2.0
-
-# General requirements
-numpy==1.26.4
 opencv-python
+numpy
+pillow
 scikit-learn
-tqdm
 matplotlib
-Pillow
-
-# Web app interface
-streamlit
-
-# File handling and directory watching (optional if used)
-watchdog
