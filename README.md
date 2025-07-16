@@ -41,6 +41,8 @@ pip install -r requirements.txt
 
 # Step 4: Run the app
 streamlit run app.py
+----
+
 
 #About Me
 I'm Vijayesh Menon, a passionate AI learner focused on building ethical, real-world AI solutions.
